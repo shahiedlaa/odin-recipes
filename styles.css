@@ -17,6 +17,7 @@ ul {
 
 li{
     display: inline-block;
+    font-size: 1.1rem;
 }
 
 a{
